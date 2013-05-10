@@ -25,7 +25,7 @@ Joomla! 2.5 or later
 
 Overriding the default stylesheet
 ----------
-The default jFontSize module stylesheet can be overriden in the same way that you can override the layout with a template override. Simply place your CSS overrides in a stylesheet named jfontsize.css in the css directory of your template and it will be loaded instead of the default jFontSize stylesheet.
+The default jFontSize module stylesheet can be overriden in the same way that you can override the layout with a template override. Simply place your CSS overrides in a stylesheet named `jfontsize.css` in the `css` directory of your template and it will be loaded instead of the default jFontSize stylesheet.
 
 Stable Master Branch Policy
 ====================

@@ -12,7 +12,7 @@ The html element, CSS class or ID to target. For exmaple, you can enter `body` t
 Defines how many times the size can be increased.
 
 ### Minus Max Hits
-Defines how many times the size can be increased.
+Defines how many times the size can be decreased.
 
 ### Size Change Interval
 Defines the range of change in pixels.
@@ -20,6 +20,7 @@ Defines the range of change in pixels.
 Dependencies
 ------------
 jQuery v1.2.6 or later
+
 Joomla! 2.5 or later
 
 Overriding the default stylesheet

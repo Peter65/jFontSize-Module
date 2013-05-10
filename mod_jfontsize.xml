@@ -6,7 +6,7 @@
 	<authorUrl>http://betweenbrain.com</authorUrl>
 	<copyright>Copyright (C) 2013 Matt Thomas. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<version>0.1</version>
+	<version>1.0</version>
 	<description>MOD_JFONTSIZE_DESC</description>
 	<files>
 		<filename>mod_jfontsize.xml</filename>
